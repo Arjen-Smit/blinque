@@ -1,0 +1,15 @@
+{
+    "name": "root/master",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arjen Smit",
+            "email": "arjen@alnitak.nl"
+        }
+    ],
+    "require": {
+        "sqmk/phue": "^1.6",
+        "symfony/yaml": "^3.2"
+    }
+}
